@@ -1,4 +1,0 @@
-/home/cartin/347f_test/build/CMakeFiles/serial_port_send.dir
-/home/cartin/347f_test/build/CMakeFiles/serial_port_recv.dir
-/home/cartin/347f_test/build/CMakeFiles/edit_cache.dir
-/home/cartin/347f_test/build/CMakeFiles/rebuild_cache.dir

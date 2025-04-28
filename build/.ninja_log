@@ -1,9 +1,0 @@
-# ninja log v5
-1	237	1745839924214378422	CMakeFiles/serial_port_recv.dir/test_recv.cpp.o	5ea53e44a2861c9f
-0	243	1745839924220378415	CMakeFiles/serial_port_send.dir/test_send.cpp.o	9b2cc1e2b26f9c11
-237	273	1745839924250378381	serial_port_recv	b623ee2c2f15d64d
-243	278	1745839924255378376	serial_port_send	bec48ccb91c23095
-0	255	1745840286035339076	CMakeFiles/serial_port_recv.dir/test_recv.cpp.o	3529e47dc5f97168
-0	261	1745840286041339739	CMakeFiles/serial_port_send.dir/test_send.cpp.o	c7d98c5d3154f560
-255	290	1745840286070342945	serial_port_recv	b623ee2c2f15d64d
-261	299	1745840286078343829	serial_port_send	bec48ccb91c23095

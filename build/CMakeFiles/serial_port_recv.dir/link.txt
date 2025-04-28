@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/serial_port_recv.dir/test_recv.cpp.o -o serial_port_recv 
